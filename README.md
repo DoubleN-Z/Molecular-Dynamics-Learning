@@ -111,6 +111,7 @@ Planned exercises and projects:
 - [MD from Scratch](https://md-from-scratch.vercel.app/)
 - [LAMMPS Documentation](https://docs.lammps.org/)
 - [OVITO Documentation](https://www.ovito.org/docs/current/)
+- [DFT Documentation](https://mavens-group.github.io/dft-notes/)
 - [ASE Documentation](https://wiki.fysik.dtu.dk/ase/)
 
 ---
