@@ -78,10 +78,10 @@ Weekly records of what I have studied and practiced.
 
 | Week | Topics | Notes / Code / Results |
 |---|---|---|
-| Week 01 |  |  |
-| Week 02 |  |  |
-| Week 03 |  |  |
-| Week 04 |  |  |
+| Week xx |  |  |
+| xx|  |  |
+| xx |  |  |
+| xx |  |  |
 
 ## Simulation Projects
 
